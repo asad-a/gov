@@ -1,0 +1,10 @@
+# Site settings
+title: COVID-19 Canadian Government Updates
+tag_text: COVID-19 Canadian Gov't Updates
+description: Updates from the Canadian Government regarding COVID-19
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed

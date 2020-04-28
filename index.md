@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+## 27/04
+
+### PM Trudeau
+
+* Applications for the Emergency Wage Subsidy open today ($847 per month per employee) - first payments arrive on May 7th
+* 300,000 views of the online calculator to help businesses prepare a claim - 10,000 businesses applied for the subsidy this morning
+* You cannot receive the wage subsidy and the emergency response benefit (CERB) - it is one or the other
+* Developing a series of guidelines for the provinces to follow - includes enough testing, PPE supply, and conditions for certain industries
+* "We need clear, coordinated efforts from coast to coast to coast when re-opening - every province or territory has a different reality"
+
+### Québec Premier Legault
+
+* Over the weekend the province processed more applications to fill vacant roles in long-term health care facilities, they are close to reaching their goal
+* 400 Canadian Forces members to arrive by Wednesday and another 200 in the days that follow, in an effort to quell the crisis in long-term health care homes
+* Elementary schools and Daycares will re-open **May 11th** for the regions and **19th for Montreal** (This is completely optional and parents can keep their children home). Highschools, CEGEPS and Universities will **remain closed until August**
+* There will be a limit of 15 students per classrooms and other physical distancing precautions will be put in place
+* The Premier will announce the roadmap for re-opening non-essential businesses **tomorrow**, it will be a gradual re-opening
+* When the Premier was asked about controversial Bill 21 and masks: People will wear masks to protect themselves, but the ban on religious symbols will remain.
+
+### Ontario Premier Ford 
+
+* "The framework released today is on **how** we're re-opening, not **when** we're re-opening" - [see it here](https://www.ontario.ca/page/reopening-ontario-after-covid-19) **and outlined in the thread below**
+* Ontario must see a consistent 2 to 4 week decrease in the number of new daily cases before they can re-open the economy
+* The "when" will also be based on virus containment, health system capacity, public health system * capacity, and incident tracking
+"Today, our experts are telling us we are in the peak. How long the peak will last remains to be seen"
+
+##### By
+
+Made with ♥ by [Clark Rabbior](https://twitter.com/clarkrabbior) && [Keyfer Mathewson](https://twitter.com/keyfermath)
+
+
