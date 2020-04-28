@@ -1,6 +1,6 @@
 # COVID-19 Candian Gov Updates
 
-We wanted a quick way to share these updates. 
+We wanted a quick way to share these updates. Contributions welcome!
 
 Thank you for the help in setting this up:
 
