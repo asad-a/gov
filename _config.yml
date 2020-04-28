@@ -1,7 +1,7 @@
 # Site settings
 title: COVID-19 Canadian Government Updates
 tag_text: COVID-19 Canadian Government Updates
-description: Updates from the Canadian Government regarding COVID-19
+description: Short & to-the-point updates from the Canadian Government regarding COVID-19
 
 # Build settings
 markdown: kramdown
