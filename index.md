@@ -2,6 +2,16 @@
 layout: default
 ---
 
+## 28/04
+
+### PM Trudeau
+
+* Federal public health officials will release updated nationwide modelling at noon today (spoiler: we're flattening the curve)
+* In the coming days they'll release the federal principles for reopening the Canadian economy - "it'll be gradual, careful, and guided by science"
+* 6M surgical masks shipping out to provinces and territories this week, 100K face shields ready to be shipped soon
+* 44,000 businesses applied for the Canadian Emergency Wage Subsidy (online portal opened yesterday)
+* Conducted 26,000 tests across the country yesterday (goal is to get that number up to at least 60,000 a day)
+
 ## 27/04
 
 ### PM Trudeau
