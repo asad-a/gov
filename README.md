@@ -8,3 +8,4 @@ Thank you for the help in setting this up:
 - David Schwartz (https://github.com/dschwar)
 - Mustafa Ali (https://github.com/mustafa01ali)
 - Michelle Fernandez (https://github.com/mendozamiche)
+- Nick Lewanowicz (https://github.com/NickLewanowicz)
