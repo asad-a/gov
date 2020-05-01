@@ -1,0 +1,15 @@
+---
+layout: post
+title: "International Edition: April 30, 2020"
+---
+
+## International: April 30, 2020
+
+* [The International Energy Agency](https://www.ft.com/content/ee88c064-2fac-4a08-aad5-59188210167b?desktop=true&segmentId=7c8f09b9-9b61-4fbb-9430-9208a9e233c8#myft:notification:daily-email:content) said that the coronavirus outbreak has caused a “staggering” drop in demand for energy, which could decline as much as 6% this year.
+* The [WHO warned that the coronavirus outbreak is still increasing across Africa](https://todaynewsafrica.com/who-urges-africa-to-expand-surveillance-and-testing-before-easing-covid-19-lockdowns/) despite efforts to contain the virus to protect limited healthcare resources. It is thought that the 34,000 reported cases on the continent significantly underestimate the extent of the virus’s spread.
+* [Russian Prime Minister Mikhail Mishustin was diagnosed with coronavirus](https://www.cnbc.com/2020/04/30/russian-prime-minister-mikhail-mishustin-tells-putin-he-has-coronavirus.html) yesterday, and will self-isolate from the country’s government.
+* [France officially fell into recession](https://www.thetimes.co.uk/edition/business/france-falls-into-recession-as-coronavirus-ravages-eurozone-bn88d7d07) after the country registered its most severe retraction in its economy since the Second World War.
+* [A further 3.8 million Americans registered as unemployed](https://www.theguardian.com/business/2020/apr/30/us-unemployment-americans-jobless-coronavirus-pandemic) last week, leaving a total of 30 million people out of work due to the virus in the country. [Unemployment in Germany](https://www.dw.com/en/germany-record-number-of-workers-on-reduced-hours/a-53289958) increased by 373,000 to 2.64 million in April.
+* Hundreds of protesters, some armed, [gathered inside Michigan’s state capitol on Thursday](https://www.theguardian.com/us-news/2020/apr/30/michigan-protests-coronavirus-lockdown-armed-capitol) as state lawmakers debated the Democratic governor’s request to extend her emergency powers to combat coronavirus. Some of the protesters shouted anti-government slogans, including comparing the state’s Democratic governor, Gretchen Whitmer, to Hitler. 
+* [Amazon warned that coronavirus-related costs could offset its gains from increased sales](https://www.ft.com/content/4dc9b8fc-56f5-47ca-b468-a9a2afc2ec7b) as it said it was forecasting that it would spend $4bn on measures to ensure deliveries were completed and workers were kept safe.
+* And finally, [Ireland’s health authority is working with drone delivery company Manna Aero](https://www.bbc.com/news/technology-52206660?intlink_from_url=https://www.bbc.co.uk/news/business&link_location=live-reporting-story) to trial direct-to-consumer deliveries of food and medicines to vulnerable people using autonomous drones.:dragonite2:
