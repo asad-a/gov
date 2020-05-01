@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "International Edition: April 30, 2020"
+title: "International Edition: May 1, 2020"
 ---
 
-## International: April 30, 2020
+## International: May 1, 2020
 
 * [The International Energy Agency](https://www.ft.com/content/ee88c064-2fac-4a08-aad5-59188210167b?desktop=true&segmentId=7c8f09b9-9b61-4fbb-9430-9208a9e233c8#myft:notification:daily-email:content) said that the coronavirus outbreak has caused a “staggering” drop in demand for energy, which could decline as much as 6% this year.
 * The [WHO warned that the coronavirus outbreak is still increasing across Africa](https://todaynewsafrica.com/who-urges-africa-to-expand-surveillance-and-testing-before-easing-covid-19-lockdowns/) despite efforts to contain the virus to protect limited healthcare resources. It is thought that the 34,000 reported cases on the continent significantly underestimate the extent of the virus’s spread.
