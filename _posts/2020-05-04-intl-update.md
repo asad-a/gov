@@ -1,0 +1,14 @@
+---
+layout: post
+title: "International Edition: May 4, 2020"
+---
+
+## International: May 4, 2020
+
+* [President Trump](https://www.thetimes.co.uk/edition/news/donald-trump-claims-us-will-have-a-coronavirus-vaccine-by-end-of-the-year-jmh2wf63b) has said he is “very confident” that a coronavirus vaccine could be ready by the end of the year and added that schools and universities should go back in September. It comes as the President claims the US will release “a very conclusive report” on how the pandemic started. There are reports that the Trump administration is [“turbocharging”](https://uk.reuters.com/article/us-health-coronavirus-usa-china/trump-administration-pushing-to-rip-global-supply-chains-from-china-officials-idUKKBN22G0BZ) an initiative to remove global industrial supply chains from China to punish Beijing for its handling of the coronavirus outbreak.
+* In Africa, [Tanzania](https://www.ft.com/content/64521099-0850-4b94-b918-c302ada63916) is reportedly covering up the true extent of the coronavirus pandemic with secret burials taking place at night. President John Magufuli, who has spent much of the crisis in his home village, has denied the seriousness of the virus and urged people to continue working and attending religious ceremonies.
+* [Somalia](https://www.theguardian.com/world/live/2020/may/02/coronavirus-live-news-dr-fauci-blocked-from-testifying-on-us-response) has reported a rapid rise in coronavirus-related deaths. So far, Somalia, one of the poorest and most vulnerable countries on the continent, has announced an official total of 601 confirmed cases and 28 deaths.
+* France’s tracing app is expected to enter testing week on Monday. The “StopCOVID” contact-tracing app should enter its testing phase next week when the country starts to unwind its lockdown, a government minister has said.
+* [Portugal](https://www.ft.com/content/67e1661b-f12b-4473-9bc2-aa2b5998ad73) has been praised for its swift action and extensive testing which has resulted in a much lower death rate than in Spain. The country has downgraded its state of emergency to a category of “calamity”, as the rate of new infections reached its lowest level since the beginning of the outbreak.
+* [Qatar](https://www.theguardian.com/world/live/2020/may/03/coronavirus-live-news-european-leaders-join-forces-to-find-vaccine-as-france-proposes-14-day-quarantine-on-entry) is currently the Gulf Cooperation Council’s second-worst hit country after Saudi Arabia and reported 679 new cases of coronavirus on Sunday, bringing the total confirmed cases to 15,551.
+* And finally, Swimming body FINA has postponed its 2021 World Aquatics Championships to 2022. The Championships in Fukuoka (JPN) will now take place from 13 May 2022 to 29 May 2022
