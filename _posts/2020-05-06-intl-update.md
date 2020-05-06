@@ -1,3 +1,10 @@
+---
+layout: post
+title: "International Edition: May 6, 2020"
+---
+
+## International: May 6, 2020
+
 * Europe will experience a recession this year of a depth unmatched since the Great Depression the European commission has said. 
 * [German](https://www.thetimes.co.uk/article/merkel-s-coronavirus-plan-is-fraying-as-regions-go-it-alone-0wfdnmdj3) Chancellor, Angela Merkel, has rebuked some of her country’s regions for easing social distancing restrictions too quickly, with 16 states customising plans for lifting the lockdown.
 * [US](https://www.bbc.com/news/world-us-canada-52553829) President Donald Trump has confirmed the White House coronavirus task force will be winding down, with Vice-President Mike Pence suggesting it could be disbanded within weeks.
